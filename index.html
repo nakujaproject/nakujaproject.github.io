@@ -12,11 +12,19 @@
     <link rel="stylesheet" href="./css/bulma.min.css" />
     <link rel="stylesheet" href="./css/bulma-steps.min.css" />
     <link rel="stylesheet" href="./css/bulma-timeline.min.css" />
-    <!-- <link rel="stylesheet" type="text/css" href="../css/hero.css"> -->
+    <!-- <link rel="stylesheet" type="text/css" href="../css/main.css"> -->
     <link rel="stylesheet" href="https://unpkg.com/bulma-modal-fx/dist/css/modal-fx.min.css" />
     <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js"></script>
     <script src="js/main.js"></script>
     <script src="js/bulma-steps.min.js"></script>
+    <style>
+        .has-bg-img { 
+            background: url('/image/rocket_image.png')center center; background-size:cover;
+        }
+        .has-bg-img .container {
+            background-color: hsla(0,0%,90%,0.6);
+        }
+    </style>
 </head>
 <body>
     <section class="hero is-success is-medium is-bold">
@@ -49,12 +57,12 @@
                 </div>
             </nav>
         </div>
-        <div class="hero-body">
+        <div class="hero-body has-bg-img">
             <div class="container has-text-centered">
-                <h1 class="title">
+                <h1 class="title has-text-black">
                     Design. Make. Launch.
                 </h1>
-                <h2 class="subtitle">
+                <h2 class="subtitle has-text-black">
                     <b>Nakuja project</b> aims to build a liquid-fuel rocket to bring small satellites into the orbit. We are based in the Kenyan universities: Jomo Kenyatta University of Agriculture and Technology (<b>JKUAT</b>) and Pan African University Institute for Basic Sciences Technology and Innovation (<b>PAUSTI</b>). 
                 </h2>
             </div>
