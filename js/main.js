@@ -1,3 +1,5 @@
+//to enable navbar hamburger menu
+// https://bulma.io/documentation/components/navbar/
 document.addEventListener('DOMContentLoaded', () => {
 
   // Get all "navbar-burger" elements
