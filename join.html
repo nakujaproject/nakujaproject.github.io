@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,17 +20,18 @@
   <script src="js/bulma-steps.min.js"></script>
   <style>
     .cal_wrapper {
-      max-width: 800px; 
-      min-width: 300px; 
+      max-width: 800px;
+      min-width: 300px;
       margin: 2.0833% auto;
     }
-     
+
     .googlecal {
       position: relative;
-      padding-bottom: 100%; 
+      padding-bottom: 100%;
       height: 0;
       overflow: hidden;
     }
+
     .googlecal iframe {
       position: absolute;
       top: 0;
@@ -37,7 +39,7 @@
       width: 100% !important;
       height: 100% !important;
     }
-     
+
     @media only screen and (min-width: 600px) {
       .googlecal {
         padding-bottom: 75%;
@@ -45,129 +47,141 @@
     }
   </style>
 </head>
+
 <body>
+  <div onclick="void(0);">
 
-  <nav class="navbar" role="navigation" aria-label="main navigation">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="/">
-        <img src="image/nakuja_logo.webp" height="28">
-      </a>
-
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-
-    <div id="navbarBasicExample" class="navbar-menu">
-      <div class="navbar-end">
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
         <a class="navbar-item" href="/">
-          Home
+          <img src="image/nakuja_logo.webp" height="28">
         </a>
 
-        <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link">
-            About
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-end">
+          <a class="navbar-item" href="/">
+            Home
           </a>
-          <div class="navbar-dropdown">
-            <a class="navbar-item" href="about.html">
-              Who we are
+
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              About
             </a>
-            <a class="navbar-item" href="team.html">
-              Team    
-            </a>
-            <a class="navbar-item" href="rocket.html">
-              Rocket
-            </a>
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="about.html">
+                Who we are
+              </a>
+              <a class="navbar-item" href="team.html">
+                Team
+              </a>
+              <a class="navbar-item" href="rocket.html">
+                Rocket
+              </a>
+            </div>
+          </div>
+          <a class="navbar-item" href="join.html">
+            Join
+          </a>
+          <a class="navbar-item" href="https://nakujaproject.blogspot.com/" target="_blank">
+            Blog
+          </a>
+
+        </div>
+
+      </div>
+    </nav>
+
+    <section class="hero" style="margin-top:20px;">
+      <div class="columns is-centered">
+        <div class="column is-half">
+          <figure class="image">
+            <img src="./image/join2.webp" />
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="container">
+      <div class="intro column is-8 is-offset-2">
+        <h1 class="title is-spaced">
+          We are seeking members
+        </h1>
+        <p>Nakuja project is largely a student-driven project. Most of the students come from Jomo Kenyatta University
+          Of Agriculture And Technology (JKUAT) and Pan African University Institute for Basic Sciences Technology and
+          Innovation (PAUSTI), but members are not limited to these universities. Anybody passionate about rocket and
+          space development, creative activity, and team project are welcome to the team.
+        </p>
+
+        <br>
+        <p>Here below is our work schedule. Feel free to visit us.</p>
+        <div class="cal_wrapper">
+          <div class="googlecal">
+            <iframe
+              src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Africa%2FNairobi&amp;src=ODY3b2F2cmhpa3RtZzVvbGQ5Zmlia25xa3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;showTitle=0"
+              style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
           </div>
         </div>
-        <a class="navbar-item" href="join.html">
-          Join
-        </a>
-        <a class="navbar-item" href="https://nakujaproject.blogspot.com/" target="_blank">
-          Blog
-        </a>
-
       </div>
-
-    </div>
-  </nav>
-
-  <section class="hero" style="margin-top:20px;">
-    <div class="columns is-centered">
-     <div class="column is-half">
-      <figure class="image">
-        <img src="./image/join2.webp"/>
-      </figure>
-    </div>
   </div>
-</section>
 
-<section class="container">
-  <div class="intro column is-8 is-offset-2">
-    <h1 class="title is-spaced">
-      We are seeking members
-    </h1>
-    <p>Nakuja project is largely a student-driven project. Most of the students come from Jomo Kenyatta University Of Agriculture And Technology (JKUAT) and Pan African University Institute for Basic Sciences Technology and Innovation (PAUSTI), but members are not limited to these universities. Anybody passionate about rocket and space development, creative activity, and team project are welcome to the team.
-    </p>
+  </section>
 
-    <br>
-    <p>Here below is our work schedule. Feel free to visit us.</p>
-    <div class="cal_wrapper">
-      <div class="googlecal">
-        <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Africa%2FNairobi&amp;src=ODY3b2F2cmhpa3RtZzVvbGQ5Zmlia25xa3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73&amp;showTitle=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  <footer class="footer">
+    <div class="container">
+      <div class="content has-text-centered">
+        <p>
+          <a href="https://m.facebook.com/nakujaproject">
+            <i class="fab fa-facebook-square fa-2x"></i>
+          </a>
+          <a href="https://twitter.com/Nakuja6">
+            <i class="fab fa-twitter-square fa-2x"></i>
+          </a>
+          <a href="https://www.instagram.com/nakujaproject/">
+            <i class="fab fa-instagram fa-2x"></i>
+          </a>
+          <a href="https://www.youtube.com/channel/UCE67lrxSyV97KVOOqOtIdrQ/">
+            <i class="fab fa-youtube-square fa-2x"></i>
+          </a>
+          <a href="https://github.com/nakujaproject/">
+            <i class="fab fa-github fa-2x"></i>
+          </a>
+        </p>
+      </div>
+
+      <div class="columns">
+        <div class="column is-3 is-offset-2">
+          <h2><strong>Nakuja Project</strong></h2>
+          <ul>
+            <li>is a technical development project based in Jomo Kenyatta University of Agriculture and Technology
+              (JKUAT) and Pan African University Institute for Basic Sciences Technology and Innovation (PAUSTI)</li>
+          </ul>
+        </div>
+        <div class="column is-3">
+          <h2><strong>Contact</strong></h2>
+          <ul>
+            <li>Email: info@nakujaproject.com</li>
+          </ul>
+        </div>
+        <div class="column is-3">
+          <h2><strong>Links</strong></h2>
+          <ul>
+            <li><a href="http://www.jkuat.ac.ke">Jomo Kenyatta University of Agriculture and Technology (JKUAT)</a></li>
+            <li><a href="http://www.jkuat.ac.ke/pauisti/">Pan African University Institute for Basic Sciences Technology
+                and Innovation (PAUSTI)</a></li>
+          </ul>
+        </div>
       </div>
     </div>
+  </footer>
+
   </div>
-</div>
-
-</section>
-
-<footer class="footer">
-  <div class="container">
-    <div class="content has-text-centered">
-      <p>
-        <a href="https://m.facebook.com/nakujaproject">
-          <i class="fab fa-facebook-square fa-2x"></i>
-        </a>
-        <a href="https://twitter.com/Nakuja6">
-          <i class="fab fa-twitter-square fa-2x"></i>
-        </a>
-        <a href="https://www.instagram.com/nakujaproject/">
-          <i class="fab fa-instagram fa-2x"></i>
-        </a>
-        <a href="https://www.youtube.com/channel/UCE67lrxSyV97KVOOqOtIdrQ/">
-          <i class="fab fa-youtube-square fa-2x"></i>
-        </a>
-        <a href="https://github.com/nakujaproject/">
-          <i class="fab fa-github fa-2x"></i>
-        </a>
-      </p>
-    </div>
-
-    <div class="columns">
-      <div class="column is-3 is-offset-2">
-        <h2><strong>Nakuja Project</strong></h2>
-        <ul>
-          <li>is a technical development project based in Jomo Kenyatta University of Agriculture and Technology (JKUAT) and Pan African University Institute for Basic Sciences Technology and Innovation (PAUSTI)</li>
-        </ul>
-      </div>
-      <div class="column is-3">
-        <h2><strong>Contact</strong></h2>
-        <ul>
-          <li>Email: info@nakujaproject.com</li>
-        </ul>
-      </div>
-      <div class="column is-3">
-        <h2><strong>Links</strong></h2>
-        <ul>
-          <li><a href="http://www.jkuat.ac.ke">Jomo Kenyatta University of Agriculture and Technology (JKUAT)</a></li>
-          <li><a href="http://www.jkuat.ac.ke/pauisti/">Pan African University Institute for Basic Sciences Technology and Innovation (PAUSTI)</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</footer>
 </body>
+
 </html>
