@@ -1,12 +1,8 @@
 import React from 'react'
 import { render } from 'react-dom'
+import Teams from './components/teams'
  
-const App = () => {
-    return (
-        <div>
-            <div>Hello React</div>
-        </div>
-    )
-}
+const teamDOM = document.getElementById('team')
+if (teamDOM !== null) render(<Teams />, teamDOM)
+
  
-render(<App/>, document.querySelector('#app'))
