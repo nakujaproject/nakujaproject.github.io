@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Navbar, Nav } from "react-bootstrap";
-// import LOGO from './logo.webp';
 
 class App extends Component {
   render() {
