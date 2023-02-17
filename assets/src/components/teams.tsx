@@ -62,7 +62,7 @@ const Teams = () => {
             },
             {
               name: "Brian Nyatwanga",
-              department: "JKUAT BSc, Electrical and Electronic engineering",
+              department: "JKUAT BSc, Electrical and Electronic Engineering",
               image: "brian_nyatwanga",
             },
             {
@@ -72,7 +72,7 @@ const Teams = () => {
             },
             {
               name: "Lael Mukeni",
-              department: "JKUAT BSc, Mechactronic Engineering",
+              department: "JKUAT BSc, Mechatronic Engineering",
               image: "placeholder",
             },
             {
@@ -200,12 +200,12 @@ const Teams = () => {
             },
             {
               name: "Jones Kisaka",
-              department: "JKUAT BSc, Electrical and electronic engineering",
+              department: "JKUAT BSc, Electrical and Electronic Engineering",
               image: "placeholder",
             },
             {
               name: "Ruth Chepkemoi",
-              department: "JKUAT BSc, Electronics and Computer engineering",
+              department: "JKUAT BSc, Electronics and Computer Engineering",
               image: "ruth",
             },
             {
@@ -219,7 +219,7 @@ const Teams = () => {
           members: [
             {
               name: "Beth Wainoi",
-              department: "JKUAT BSc, Information technology",
+              department: "JKUAT BSc, Information Technology",
               image: "placeholder",
             },
             {
@@ -289,7 +289,7 @@ const Teams = () => {
             },
             {
               name: "Anne Kariithi",
-              department: "JKUAT BSc, Electrical and electronic engineering",
+              department: "JKUAT BSc, Electrical and Electronic Engineering",
               image: "anne",
             },
             {
