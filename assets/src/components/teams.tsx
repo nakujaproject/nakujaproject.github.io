@@ -45,15 +45,15 @@ const Teams = () => {
               department: "JKUAT BSc, Mechatronic Engineering",
               image: "ian",
             },
-          ],
-        },
-        {
-          members: [
             {
               name: "Maureen Gichia",
               department: "JKUAT BSc, Mechatronic Engineering",
               image: "maureen",
             },
+          ],
+        },
+        {
+          members: [
             {
               name: "Valerian Nyerere",
               department:
@@ -65,7 +65,55 @@ const Teams = () => {
               department: "JKUAT BSc, Electrical and Electronic engineering",
               image: "brian_nyatwanga",
             },
-            { name: "", department: "", image: "" },
+            {
+              name: "Paul Munyao",
+              department: "JKUAT BSc, Mechatronic Engineering",
+              image: "placeholder",
+            },
+            {
+              name: "Lael Mukeni",
+              department: "JKUAT BSc, Mechactronic Engineering",
+              image: "placeholder",
+            },
+            {
+              name: "Collins Bett",
+              department: "JKUAT BSc, Mechatronic Engineering",
+              image: "placeholder",
+            },
+          ],
+        },
+        {
+          members: [
+            {
+              name: "Shabach Baraka",
+              department:
+                "JKUAT BSc, Mechatronic Engineering",
+              image: "placeholder",
+            },
+            {
+              name: "Bruce Kibet",
+              department:
+                "KU BSc, Aerospace Engineering",
+              image: "placeholder",
+            },
+            {
+              name: "Edmund Munene",
+              department:
+                "Mechatronic Engineering",
+              image: "placeholder",
+            },
+            {
+              name: "",
+              department:
+                "",
+              image: "",
+            },
+            {
+              name: "",
+              department:
+                "",
+              image: "",
+            },
           ],
         },
       ],
@@ -97,16 +145,16 @@ const Teams = () => {
               department: "JKUAT BSc, Electrical and Electronic Engineering",
               image: "edwin",
             },
-          ],
-        },
-        {
-          members: [
             {
               name: "Junn Wangai",
               department:
                 "JKUAT BSc, Telecommunication and Information Engineering",
               image: "junn",
-            },
+            }
+          ],
+        },
+        {
+          members: [
             {
               name: "George Ogeto",
               department:
@@ -124,10 +172,6 @@ const Teams = () => {
               department: "JKUAT BSc, Electrical and Electronic Engineering",
               image: "caleb",
             },
-          ],
-        },
-        {
-          members: [
             {
               name: "James Macharia",
               department:
@@ -139,7 +183,11 @@ const Teams = () => {
               department:
                 "JKUAT BSc, Telecommunication and Information Engineering",
               image: "martin_munialo",
-            },
+            }
+          ],
+        },
+        {
+          members: [
             {
               name: "Festus Muthama",
               department: "JKUAT BSc, Electrical and Electronic Engineering",
@@ -149,6 +197,50 @@ const Teams = () => {
               name: "Mohamedhashir Hussein",
               department: "JKUAT BSc, Mechatronic Engineering",
               image: "hussein",
+            },
+            {
+              name: "Jones Kisaka",
+              department: "Electrical and electronic engineering",
+              image: "placeholder",
+            },
+            {
+              name: "Ruth Chepkemoi",
+              department: "Electrical and electronic engineering",
+              image: "ruth",
+            },
+            {
+              name: "Safa Osman",
+              department: "Electrical and electronic engineering",
+              image: "placeholder",
+            },
+          ],
+        },
+        {
+          members: [
+            {
+              name: "Beth Wainoi",
+              department: "JKUAT BSc, Information technology",
+              image: "placeholder",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
             },
           ],
         },
@@ -181,19 +273,58 @@ const Teams = () => {
               department: "JKUAT BSc, Mechanical Engineering",
               image: "ogweno",
             },
+            {
+              name: "Mark Odhiambo",
+              department: "JKUAT BSc, Electrical and Electronic Engineering",
+              image: "mark",
+            }
           ],
         },
         {
           members: [
             {
-              name: "Mark Odhiambo",
-              department: "JKUAT BSc, Electrical and Electronic Engineering",
-              image: "mark",
-            },
-            {
               name: "Vivian Mwangi",
               department: "JKUAT BSc, Mechatronic Engineering",
               image: "vivian",
+            },
+            {
+              name: "Anne Kariithi",
+              department: "JKUAT BSc, Electrical and electronic engineering",
+              image: "placeholder",
+            },
+            {
+              name: "Innocent Namuye",
+              department: "JKUAT BSc, Mechatronic Engineering",
+              image: "innocent",
+            },
+            {
+              name: "Samwel Tinega",
+              department: "JKUAT BSc, Mechatronic Engineering",
+              image: "placeholder",
+            },
+            {
+              name: "Lawrence Mwadime",
+              department: "JKUAT BSc, Mechanical Engineering",
+              image: "mwadime",
+            },
+          ],
+        },
+        {
+          members: [
+            {
+              name: "Francis Gachunga",
+              department: "KU BSc, Aerospace Engineering",
+              image: "francis",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
             },
             {
               name: "",
@@ -236,15 +367,15 @@ const Teams = () => {
               department: "JKUAT BSc, Mechatronic Engineering",
               image: "placeholder",
             },
-          ],
-        },
-        {
-          members: [
             {
               name: "Robert Kariuki",
               department: "JKUAT BSc, Mechatronic Engineering",
               image: "robert",
-            },
+            }
+          ],
+        },
+        {
+          members: [
             {
               name: "Arnold Odhiambo",
               department: "JKUAT BSc, Electrical and Electronic Engineering",
@@ -260,6 +391,16 @@ const Teams = () => {
               department: "",
               image: "",
             },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            }
           ],
         },
       ],
@@ -291,6 +432,11 @@ const Teams = () => {
               department: "JKUAT BSc, Development studies",
               image: "roy",
             },
+            {
+              name: "",
+              department: "",
+              image: "",
+            }
           ],
         },
       ],
@@ -321,15 +467,25 @@ const Teams = () => {
               department: "Lecturer, Mechatronics, JKUAT",
               image: "muchiri",
             },
-          ],
-        },
-        {
-          members: [
             {
               name: "Mr. Njeru Manegene",
               department:
                 "Lecturer, Electrical and Electronic Engineering, JKUAT",
               image: "manegene",
+            }
+          ],
+        },
+        {
+          members: [
+            {
+              name: "Dr. Patrick Irungu",
+              department: "Lecturer, Mechanical Engineering, JKUAT",
+              image: "placeholder",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
             },
             {
               name: "",
@@ -382,7 +538,7 @@ const Teams = () => {
                                   style={{ visibility: "hidden" }}
                                 >
                                   <article className="tile is-child has-text-centered has-image-centered">
-                                    <figure className="image is-128x128 container">
+                                    <figure className="image is-96x96 container">
                                       <img
                                         className="is-rounded"
                                         src="image/member/placeholder.webp"
@@ -397,7 +553,7 @@ const Teams = () => {
                               membersDOM = (
                                 <div className="tile is-parent">
                                   <article className="tile is-child box has-text-centered has-image-centered">
-                                    <figure className="image is-128x128 container">
+                                    <figure className="image is-96x96 container">
                                       <img
                                         className="is-rounded"
                                         src={
@@ -407,8 +563,8 @@ const Teams = () => {
                                         }
                                       />
                                     </figure>
-                                    <p className="is-size-5">{member.name}</p>
-                                    <p className="">{member.department}</p>
+                                    <p className="is-size-6">{member.name}</p>
+                                    <p className="is-size-7">{member.department}</p>
                                   </article>
                                 </div>
                               );
