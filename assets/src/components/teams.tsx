@@ -142,7 +142,7 @@ const Teams = () => {
             },
             {
               name: "Edwin Mwiti",
-              department: "JKUAT BSc, Electrical and Electronic Engineering",
+              department: "JKUAT BSc, Electronics and Computer Engineering",
               image: "edwin",
             },
             {
@@ -200,17 +200,17 @@ const Teams = () => {
             },
             {
               name: "Jones Kisaka",
-              department: "Electrical and electronic engineering",
+              department: "JKUAT BSc, Electrical and electronic engineering",
               image: "placeholder",
             },
             {
               name: "Ruth Chepkemoi",
-              department: "Electrical and electronic engineering",
+              department: "JKUAT BSc, Electronics and Computer engineering",
               image: "ruth",
             },
             {
               name: "Safa Osman",
-              department: "Electrical and electronic engineering",
+              department: "JKUAT, Electronics and Computer Engineering",
               image: "placeholder",
             },
           ],
