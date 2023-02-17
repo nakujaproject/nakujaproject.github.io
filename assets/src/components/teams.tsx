@@ -290,7 +290,7 @@ const Teams = () => {
             {
               name: "Anne Kariithi",
               department: "JKUAT BSc, Electrical and electronic engineering",
-              image: "placeholder",
+              image: "anne",
             },
             {
               name: "Innocent Namuye",
