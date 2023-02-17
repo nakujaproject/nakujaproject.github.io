@@ -27,27 +27,27 @@ const Teams = () => {
           members: [
             {
               name: "Washington Kamadi",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "washington",
             },
             {
               name: "Felix Gateru Wanyoike",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "felix",
             },
             {
               name: "Jeff Mboya",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "jeff",
             },
             {
               name: "Ian Kibandi",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "ian",
             },
             {
               name: "Maureen Gichia",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "maureen",
             },
           ],
@@ -57,27 +57,27 @@ const Teams = () => {
             {
               name: "Valerian Nyerere",
               department:
-                "JKUAT BSc, Telecommunication and Information Engineering",
+                "BSc Telecommunication and Information Engineering, JKUAT",
               image: "valerian",
             },
             {
               name: "Brian Nyatwanga",
-              department: "JKUAT BSc, Electrical and Electronic Engineering",
+              department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "brian_nyatwanga",
             },
             {
               name: "Paul Munyao",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "placeholder",
             },
             {
               name: "Lael Mukeni",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "placeholder",
             },
             {
               name: "Collins Bett",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "placeholder",
             },
           ],
@@ -87,7 +87,7 @@ const Teams = () => {
             {
               name: "Shabach Baraka",
               department:
-                "JKUAT BSc, Mechatronic Engineering",
+                "BSc Mechatronic Engineering, JKUAT",
               image: "placeholder",
             },
             {
@@ -127,28 +127,28 @@ const Teams = () => {
           members: [
             {
               name: "Michael Kimani",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "michael",
             },
             {
               name: "Rodney Osodo",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "rodney",
             },
             {
               name: "Brian Olasya",
-              department: "Brian Olasya",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "placeholder",
             },
             {
               name: "Edwin Mwiti",
-              department: "JKUAT BSc, Electronics and Computer Engineering",
+              department: "BSc Electronics and Computer Engineering, JKUAT",
               image: "edwin",
             },
             {
               name: "Junn Wangai",
               department:
-                "JKUAT BSc, Telecommunication and Information Engineering",
+                "BSc Telecommunication and Information Engineering, JKUAT",
               image: "junn",
             }
           ],
@@ -158,30 +158,30 @@ const Teams = () => {
             {
               name: "George Ogeto",
               department:
-                "JKUAT BSc, Telecommunication and Information Engineering",
+                "BSc Telecommunication and Information Engineering, JKUAT",
               image: "george",
             },
             {
               name: "Ian Muchiri",
               department:
-                "JKUAT BSc, Telecommunication and Information Engineering",
+                "BSc Telecommunication and Information Engineering, JKUAT",
               image: "ian_muchiri",
             },
             {
               name: "Caleb Mucheru",
-              department: "JKUAT BSc, Electrical and Electronic Engineering",
+              department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "caleb",
             },
             {
               name: "James Macharia",
               department:
-                "JKUAT BSc, Telecommunication and Information Engineering",
+                "BSc Telecommunication and Information Engineering, JKUAT",
               image: "placeholder",
             },
             {
               name: "Martin Munialo",
               department:
-                "JKUAT BSc, Telecommunication and Information Engineering",
+                "BSc Telecommunication and Information Engineering, JKUAT",
               image: "martin_munialo",
             }
           ],
@@ -190,27 +190,27 @@ const Teams = () => {
           members: [
             {
               name: "Festus Muthama",
-              department: "JKUAT BSc, Electrical and Electronic Engineering",
+              department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "festus",
             },
             {
               name: "Mohamedhashir Hussein",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "hussein",
             },
             {
               name: "Jones Kisaka",
-              department: "JKUAT BSc, Electrical and Electronic Engineering",
+              department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "placeholder",
             },
             {
               name: "Ruth Chepkemoi",
-              department: "JKUAT BSc, Electronics and Computer Engineering",
+              department: "BSc Electronics and Computer Engineering, JKUAT",
               image: "ruth",
             },
             {
               name: "Safa Osman",
-              department: "JKUAT, Electronics and Computer Engineering",
+              department: "BSc Electronics and Computer Engineering, JKUAT",
               image: "placeholder",
             },
           ],
@@ -219,7 +219,7 @@ const Teams = () => {
           members: [
             {
               name: "Beth Wainoi",
-              department: "JKUAT BSc, Information Technology",
+              department: "BSc Information Technology, JKUAT",
               image: "placeholder",
             },
             {
@@ -255,27 +255,27 @@ const Teams = () => {
           members: [
             {
               name: "Destine Mashava",
-              department: "PAUSTI MSc, Mechanical Engineering",
+              department: "MSc Mechanical Engineering, PAUSTI",
               image: "destine",
             },
             {
               name: "Harvey Chamanyeta",
-              department: "PAUSTI MSc, Mechanical Engineering",
+              department: "MSc Mechanical Engineering, PAUSTI",
               image: "placeholder",
             },
             {
               name: "Yvonne Mureithi",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "yvonne",
             },
             {
               name: "Emmanuel Ogweno",
-              department: "JKUAT BSc, Mechanical Engineering",
+              department: "BSc Mechanical Engineering, JKUAT",
               image: "ogweno",
             },
             {
               name: "Mark Odhiambo",
-              department: "JKUAT BSc, Electrical and Electronic Engineering",
+              department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "mark",
             }
           ],
@@ -284,27 +284,27 @@ const Teams = () => {
           members: [
             {
               name: "Vivian Mwangi",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "vivian",
             },
             {
               name: "Anne Kariithi",
-              department: "JKUAT BSc, Electrical and Electronic Engineering",
+              department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "anne",
             },
             {
               name: "Innocent Namuye",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "innocent",
             },
             {
               name: "Samwel Tinega",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "placeholder",
             },
             {
               name: "Lawrence Mwadime",
-              department: "JKUAT BSc, Mechanical Engineering",
+              department: "BSc Mechanical Engineering, JKUAT",
               image: "mwadime",
             },
           ],
@@ -349,27 +349,27 @@ const Teams = () => {
           members: [
             {
               name: "Sammy Oina",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "sammy",
             },
             {
               name: "Earl Spencer",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "placeholder",
             },
             {
               name: "Faith Chelangat",
-              department: "JKUAT BSc, Electrical and Electronic Engineering",
+              department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "faith",
             },
             {
               name: "Derrick Kirimi",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "placeholder",
             },
             {
               name: "Robert Kariuki",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "robert",
             }
           ],
@@ -378,7 +378,7 @@ const Teams = () => {
           members: [
             {
               name: "Arnold Odhiambo",
-              department: "JKUAT BSc, Electrical and Electronic Engineering",
+              department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "arnold",
             },
             {
@@ -414,22 +414,22 @@ const Teams = () => {
           members: [
             {
               name: "Sameel Halai",
-              department: "JKUAT BSc, Mechatronic Engineering",
+              department: "BSc Mechatronic Engineering, JKUAT",
               image: "sameel",
             },
             {
               name: "Allan Nyaundi",
-              department: "JKUAT BSc, Media department",
+              department: "BSc Media, JKUAT",
               image: "allan",
             },
             {
               name: "Dancan Siriba",
-              department: "JKUAT BSc, Journalism",
+              department: "BSc Journalism, JKUAT",
               image: "dancan",
             },
             {
               name: "Roy Wangui",
-              department: "JKUAT BSc, Development studies",
+              department: "BSc Development Studies, JKUAT",
               image: "roy",
             },
             {
@@ -449,12 +449,12 @@ const Teams = () => {
           members: [
             {
               name: "Dr. Shohei Aoki",
-              department: "JKUAT/PAUSTI Adjunct Faculty, Project Leader",
+              department: "Adjunct Faculty, JKUAT, Project Leader",
               image: "shohei",
             },
             {
               name: "Dr. Bernard Owiti",
-              department: "Lecturer, Mech.Eng., JKUAT",
+              department: "Lecturer, Mechanical Engineering, JKUAT",
               image: "owiti",
             },
             {
@@ -464,7 +464,7 @@ const Teams = () => {
             },
             {
               name: "Dr. Anthony Muchiri",
-              department: "Lecturer, Mechatronics, JKUAT",
+              department: "Lecturer, Mechatronic Engineering, JKUAT",
               image: "muchiri",
             },
             {
