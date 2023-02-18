@@ -78,7 +78,7 @@ const Teams = () => {
             {
               name: "Collins Bett",
               department: "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
+              image: "collins",
             },
           ],
         },
@@ -201,7 +201,7 @@ const Teams = () => {
             {
               name: "Jones Kisaka",
               department: "BSc Electrical and Electronic Engineering, JKUAT",
-              image: "placeholder",
+              image: "jones",
             },
             {
               name: "Ruth Chepkemoi",
