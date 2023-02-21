@@ -93,7 +93,13 @@ const Teams = () => {
             {
               name: "Bruce Kibet",
               department:
-                "KU BSc, Aerospace Engineering",
+                "BSc Aerospace Engineering, KU",
+              image: "placeholder",
+            },
+            {
+              name: "Faith Chelang'at Korir ",
+              department:
+                "BSc Mechanical Engineering, JKUAT",
               image: "placeholder",
             },
             {
@@ -101,12 +107,6 @@ const Teams = () => {
               department:
                 "Mechatronic Engineering",
               image: "placeholder",
-            },
-            {
-              name: "",
-              department:
-                "",
-              image: "",
             },
             {
               name: "",
@@ -313,7 +313,7 @@ const Teams = () => {
           members: [
             {
               name: "Francis Gachunga",
-              department: "KU BSc, Aerospace Engineering",
+              department: "BSc Aerospace Engineering, KU",
               image: "francis",
             },
             {
