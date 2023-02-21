@@ -480,7 +480,7 @@ const Teams = () => {
             {
               name: "Dr. Patrick Irungu",
               department: "Lecturer, Mechanical Engineering, JKUAT",
-              image: "placeholder",
+              image: "patrick",
             },
             {
               name: "",
