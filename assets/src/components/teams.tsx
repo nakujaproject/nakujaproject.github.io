@@ -73,7 +73,7 @@ const Teams = () => {
             {
               name: "Lael Mukeni",
               department: "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
+              image: "lael",
             },
             {
               name: "Collins Bett",
@@ -94,7 +94,7 @@ const Teams = () => {
               name: "Bruce Kibet",
               department:
                 "BSc Aerospace Engineering, KU",
-              image: "placeholder",
+              image: "bruce",
             },
             {
               name: "Faith Chelang'at Korir ",
@@ -300,7 +300,7 @@ const Teams = () => {
             {
               name: "Samwel Tinega",
               department: "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
+              image: "tinega",
             },
             {
               name: "Lawrence Mwadime",
