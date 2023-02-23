@@ -211,7 +211,7 @@ const Teams = () => {
             {
               name: "Safa Osman",
               department: "BSc Electronics and Computer Engineering, JKUAT",
-              image: "placeholder",
+              image: "safa",
             },
           ],
         },
