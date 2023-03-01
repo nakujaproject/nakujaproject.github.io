@@ -68,7 +68,7 @@ const Teams = () => {
             {
               name: "Paul Munyao",
               department: "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
+              image: "paul",
             },
             {
               name: "Lael Mukeni",
