@@ -106,7 +106,7 @@ const Teams = () => {
               name: "Edmund Munene",
               department:
                 "Mechatronic Engineering",
-              image: "placeholder",
+              image: "edmund",
             },
             {
               name: "",
