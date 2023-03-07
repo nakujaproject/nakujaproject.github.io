@@ -220,7 +220,7 @@ const Teams = () => {
             {
               name: "Beth Wainoi",
               department: "BSc Information Technology, JKUAT",
-              image: "placeholder",
+              image: "beth",
             },
             {
               name: "",
