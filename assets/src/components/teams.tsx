@@ -443,7 +443,7 @@ const Teams = () => {
     },
     {
       name: "Advisors ",
-      comment: "",
+      comment: "The advisors are JKUAT staff who closely work with the student team to provide necessary assistance.",
       columns: [
         {
           members: [
@@ -513,6 +513,15 @@ const Teams = () => {
       <section className="section">
         <div className="container has-text-centered">
           <h2 className="title">Team</h2>
+
+          <div className="columns is-centered">
+              <div className="column is-three-fifths">
+                <figure className="image is-16by9" style={{marginBottom:'5px'}}>
+                  <iframe className="has-ratio" width="560" height="315"
+                    src="https://www.youtube.com/embed/FgPUEDIpjJs?rel=0" frameborder="0" allowfullscreen></iframe>
+                </figure>
+              </div>
+            </div>
 
           {teamsInfo.map((team: TeamsInfo) => {
             return (
