@@ -88,7 +88,7 @@ const Teams = () => {
               name: "Shabach Baraka",
               department:
                 "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
+              image: "shabach",
             },
             {
               name: "Bruce Kibet",
@@ -518,7 +518,7 @@ const Teams = () => {
               <div className="column is-three-fifths">
                 <figure className="image is-16by9" style={{marginBottom:'5px'}}>
                   <iframe className="has-ratio" width="560" height="315"
-                    src="https://www.youtube.com/embed/FgPUEDIpjJs?rel=0" frameborder="0" allowfullscreen></iframe>
+                    src="https://www.youtube.com/embed/FgPUEDIpjJs?rel=0" frameBorder="0" allowFullScreen></iframe>
                 </figure>
               </div>
             </div>
