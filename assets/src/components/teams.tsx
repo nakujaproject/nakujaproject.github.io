@@ -223,9 +223,9 @@ const Teams = () => {
               image: "beth",
             },
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Njeri Newton Kariuki",
+              department: "BSc Mechatronic Engineering, DeKUT",
+              image: "newton",
             },
             {
               name: "",
