@@ -1,9 +1,11 @@
 import React from "react";
+import ReactHtmlParser from 'react-html-parser'; 
 
 type TeamsInfo = {
   name: string;
   comment: string;
   columns: Column[];
+  html: string;
 };
 
 type Column = {
@@ -105,8 +107,42 @@ const Teams = () => {
             {
               name: "Edmund Munene",
               department:
-                "Mechatronic Engineering",
+                "BSc Mechatronic Engineering, JKUAT",
               image: "edmund",
+            },
+            {
+              name: "Victoria Barasa",
+              department:
+                "Mechanical Engineering, JKUAT",
+              image: "victoria",
+            },
+          ],
+        },
+        {
+          members: [
+            {
+              name: "Ian Nzau Mutua",
+              department:
+                "BSc Mechanical Engineering, KU",
+              image: "placeholder",
+            },
+            {
+              name: "Brenda Chepkemoi",
+              department:
+                "BSc Aerospace Engineering, KU",
+              image: "placeholder",
+            },
+            {
+              name: "Stephen Kumeiya Njamura",
+              department:
+                "BSc Electrical and Electronic Engineering, JKUAT",
+              image: "placeholder",
+            },
+            {
+              name: "Gloriah Chepkirui",
+              department:
+                "BSc Electrical and Electronic Engineering, JKUAT",
+              image: "placeholder",
             },
             {
               name: "",
@@ -117,6 +153,7 @@ const Teams = () => {
           ],
         },
       ],
+      html: '',
     },
     {
       name: "Avionics",
@@ -245,6 +282,7 @@ const Teams = () => {
           ],
         },
       ],
+      html: '',
     },
     {
       name: "Airframe",
@@ -317,14 +355,14 @@ const Teams = () => {
               image: "francis",
             },
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Samwel Wanjagi",
+              department: "BSc Mechanical Engineering, KU",
+              image: "placeholder",
             },
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Muthoni Wandia",
+              department: "BSc Aerospace Engineering, KU",
+              image: "placeholder",
             },
             {
               name: "",
@@ -339,6 +377,7 @@ const Teams = () => {
           ],
         },
       ],
+      html: '',
     },
     {
       name: "Flight control",
@@ -404,6 +443,7 @@ const Teams = () => {
           ],
         },
       ],
+      html: '',
     },
     {
       name: "Media",
@@ -440,6 +480,7 @@ const Teams = () => {
           ],
         },
       ],
+      html: '',
     },
     {
       name: "Advisors ",
@@ -505,6 +546,14 @@ const Teams = () => {
           ],
         },
       ],
+      html: '',
+    },
+    {
+      name: "Nakuja alumni",
+      comment: "Nakuja alumni are active in various parts of the world.",
+      columns: [
+      ],
+      html: '<iframe style="width:100%; height:400px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIW63rx345Fz-yVue82F69w_TtD29Os-ypI5X9kV1kaGkRloZIAsXla9sBHx_5XBdrfyoyxLJA8Hp_/pubhtml?gid=0&single=true&header=false&widget=false&chrome=false"></iframe>'
     },
   ];
 
@@ -583,6 +632,7 @@ const Teams = () => {
                         </div>
                       );
                     })}
+                    {ReactHtmlParser (team.html)}
                   </div>
                 </div>
               </>
