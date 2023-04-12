@@ -130,7 +130,7 @@ const Teams = () => {
               name: "Brenda Chepkemoi",
               department:
                 "BSc Aerospace Engineering, KU",
-              image: "placeholder",
+              image: "brenda",
             },
             {
               name: "Stephen Kumeiya Njamura",
