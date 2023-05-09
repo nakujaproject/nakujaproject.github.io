@@ -145,10 +145,10 @@ const Teams = () => {
               image: "placeholder",
             },
             {
-              name: "",
+              name: "Collins Omariba",
               department:
-                "",
-              image: "",
+                "BSc Mechatronic Engineering, JKUAT",
+              image: "omariba",
             },
           ],
         },
@@ -265,9 +265,9 @@ const Teams = () => {
               image: "newton",
             },
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Erick Gitonga",
+              department: "BSc Electrical and Electronic Engineering, JKUAT",
+              image: "erick",
             },
             {
               name: "",
