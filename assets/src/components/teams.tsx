@@ -337,7 +337,7 @@ const Teams = () => {
             },
             {
               name: "Samwel Tinega",
-              department: "BSc Mechatronic Engineering, JKUAT",
+              department: "BSc Mechanical Engineering, JKUAT",
               image: "tinega",
             },
             {
