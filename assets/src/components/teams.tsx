@@ -427,7 +427,7 @@ const Teams = () => {
     },
     {
       name: "Advisors ",
-      comment: "The advisors are JKUAT staff who closely work with the student team to provide necessary assistance.",
+      comment: "The advisors work with the student team to provide necessary assistance.",
       columns: [
         {
           members: [
@@ -472,9 +472,9 @@ const Teams = () => {
               image: "placeholder",
             },
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Aloyce Were",
+              department: "Kenya Space Agency",
+              image: "were",
             },
             {
               name: "",
