@@ -442,29 +442,29 @@ const Teams = () => {
               image: "owiti",
             },
             {
-              name: "Mr. Ben Maniafu",
-              department: "Senior Technologist, iPIC",
-              image: "ben",
-            },
-            {
               name: "Dr. Anthony Muchiri",
               department: "Lecturer, Mechatronic Engineering, JKUAT",
               image: "muchiri",
             },
             {
-              name: "Mr. Njeru Manegene",
-              department:
-                "Lecturer, Electrical and Electronic Engineering, JKUAT",
-              image: "manegene",
-            }
+              name: "Dr. Patrick Irungu",
+              department: "Lecturer, Mechanical Engineering, JKUAT",
+              image: "patrick",
+            },
+            {
+              name: "Mr. Ben Maniafu",
+              department: "Senior Technologist, iPIC",
+              image: "ben",
+            },
           ],
         },
         {
           members: [
             {
-              name: "Dr. Patrick Irungu",
-              department: "Lecturer, Mechanical Engineering, JKUAT",
-              image: "patrick",
+              name: "Mr. Njeru Manegene",
+              department:
+                "Lecturer, Electrical and Electronic Engineering, JKUAT",
+              image: "manegene",
             },
             {
               name: "Dr. Joshua Ngoret",
