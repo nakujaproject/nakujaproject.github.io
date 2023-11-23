@@ -32,6 +32,9 @@ class App extends Component {
           <Nav.Link className="navbar-item" href="rocket.html">
             Rocket
           </Nav.Link>
+          <Nav.Link className="navbar-item" href="research.html">
+            Research
+          </Nav.Link>
           <Nav.Link className="navbar-item" href="join.html">
             Join
           </Nav.Link>
