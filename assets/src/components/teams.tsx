@@ -23,7 +23,7 @@ const Teams = () => {
     {
       name: "Propulsion",
       comment:
-        "The propulsion team is the team tasked with fabricating the rocket engine and propulsion sytem. The team is currently developing a solid rocket propellant for N-2 rocket. Our ultimate goal is to develop a liquid propellant engine, which is quite a task but we definitely are up to the task.",
+        "The propulsion team is the team tasked with fabricating the rocket engine and propulsion sytem. The team is currently developing a solid rocket propellant for N-3 rocket. Our ultimate goal is to develop a liquid propellant engine, which is quite a task but we definitely are up to the task.",
       columns: [
         {
           members: [
@@ -161,9 +161,9 @@ const Teams = () => {
       html: '',
     },
     {
-      name: "Avionics",
+      name: "Recovery",
       comment:
-        "The Avionics team of the Nakuja project is a team made up of viable and enthusiastic students from the Jomo Kenyatta Univesity of Agriculture and Technology (JKUAT). The team is in charge of designing, testing and implementing the avionics system of our rocket.",
+        "The Recovery team of the Nakuja project is a team made up of viable and enthusiastic students from the Jomo Kenyatta Univesity of Agriculture and Technology (JKUAT). The team is in charge of designing, testing and implementing the avionics and telemetry system to ensure the successful recovery of our rocket.",
       columns: [
         {
           members: [
@@ -317,72 +317,6 @@ const Teams = () => {
               department: "",
               image: "",
             },
-          ],
-        },
-      ],
-      html: '',
-    },
-    {
-      name: "Flight control",
-      comment:
-        "The team consists of JKUAT students interested in conttrol systems. The team is focused on design of control systems, PCB design, and programming of the control systems for the rocket. The current development is focused on the reaction wheel control system.",
-      columns: [
-        {
-          members: [
-            {
-              name: "Sammy Oina",
-              department: "BSc Mechatronic Engineering, JKUAT",
-              image: "sammy",
-            },
-            {
-              name: "Earl Spencer",
-              department: "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
-            },
-            {
-              name: "Faith Chelangat",
-              department: "BSc Electrical and Electronic Engineering, JKUAT",
-              image: "faith",
-            },
-            {
-              name: "Derrick Kirimi",
-              department: "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
-            },
-            {
-              name: "Robert Kariuki",
-              department: "BSc Mechatronic Engineering, JKUAT",
-              image: "robert",
-            }
-          ],
-        },
-        {
-          members: [
-            {
-              name: "Arnold Odhiambo",
-              department: "BSc Electrical and Electronic Engineering, JKUAT",
-              image: "arnold",
-            },
-            {
-              name: "",
-              department: "",
-              image: "",
-            },
-            {
-              name: "",
-              department: "",
-              image: "",
-            },
-            {
-              name: "",
-              department: "",
-              image: "",
-            },
-            {
-              name: "",
-              department: "",
-              image: "",
-            }
           ],
         },
       ],
