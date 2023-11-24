@@ -386,7 +386,7 @@ const Teams = () => {
               image: "patrick",
             },
             {
-              name: "Mr. Ben Maniafu",
+              name: "Ben Maniafu",
               department: "Senior Technologist, iPIC",
               image: "ben",
             },
