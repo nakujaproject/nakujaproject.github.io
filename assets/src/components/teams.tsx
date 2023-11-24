@@ -395,7 +395,7 @@ const Teams = () => {
         {
           members: [
             {
-              name: "Mr. Njeru Manegene",
+              name: "Njeru Manegene",
               department:
                 "Lecturer, Electrical and Electronic Engineering, JKUAT",
               image: "manegene",
