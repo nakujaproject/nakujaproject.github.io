@@ -34,9 +34,10 @@ const Teams = () => {
               image: "placeholder",
             },
             {
-              name: "Daniel Ayioka",
-              department: "BSc Mechatronic Engineering, JKUAT",
-              image: "brian_nyatwanga",
+              name: "Collins Omariba",
+              department:
+                "BSc Mechatronic Engineering, JKUAT",
+              image: "omariba",
             },
             {
               name: "Paul Munyao",
@@ -49,19 +50,20 @@ const Teams = () => {
               image: "lael",
             },
             {
-              name: "Collins Bett",
-              department: "BSc Mechatronic Engineering, JKUAT",
-              image: "collins",
+              name: "Lukundo Okemba",
+              department:
+                "BSc Mechatronic Engineering, JKUAT",
+              image: "placeholder",
             },
           ],
         },
         {
           members: [
             {
-              name: "Shabach Baraka",
+              name: "Obed Gakui",
               department:
                 "BSc Mechatronic Engineering, JKUAT",
-              image: "shabach",
+              image: "placeholder",
             },
             {
               name: "Bruce Kibet",
@@ -70,93 +72,25 @@ const Teams = () => {
               image: "bruce",
             },
             {
-              name: "Faith Chelang'at Korir ",
-              department:
-                "BSc Mechanical Engineering, JKUAT",
-              image: "faith_korir",
-            },
-            {
-              name: "Edmund Munene",
-              department:
-                "BSc Mechatronic Engineering, JKUAT",
-              image: "edmund",
-            },
-            {
               name: "Victoria Barasa",
               department:
                 "Mechanical Engineering, JKUAT",
               image: "victoria",
             },
-          ],
-        },
-        {
-          members: [
             {
-              name: "Ian Nzau Mutua",
+              name: "",
               department:
-                "BSc Mechanical Engineering, KU",
-              image: "placeholder",
+                "",
+              image: "",
             },
             {
-              name: "Brenda Chepkemoi",
+              name: "",
               department:
-                "BSc Aerospace Engineering, KU",
-              image: "brenda",
-            },
-            {
-              name: "Stephen Kumeiya Njamura",
-              department:
-                "BSc Electrical and Electronic Engineering, JKUAT",
-              image: "placeholder",
-            },
-            {
-              name: "Gloriah Chepkirui",
-              department:
-                "BSc Electrical and Electronic Engineering, JKUAT",
-              image: "placeholder",
-            },
-            {
-              name: "Collins Omariba",
-              department:
-                "BSc Mechatronic Engineering, JKUAT",
-              image: "omariba",
+                "",
+              image: "",
             },
           ],
         },
-        {
-          members: [
-            {
-              name: "Lukundo Okemba",
-              department:
-                "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
-            },
-            {
-              name: "Obed Gakui",
-              department:
-                "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
-            },
-            {
-              name: "",
-              department:
-                "",
-              image: "",
-            },
-            {
-              name: "",
-              department:
-                "",
-              image: "",
-            },
-            {
-              name: "",
-              department:
-                "",
-              image: "",
-            },
-          ],
-        }
       ],
       html: '',
     },
@@ -198,11 +132,6 @@ const Teams = () => {
         {
           members: [
             {
-              name: "Mohamedhashir Hussein",
-              department: "BSc Mechatronic Engineering, JKUAT",
-              image: "hussein",
-            },
-            {
               name: "Jones Kisaka",
               department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "jones",
@@ -222,25 +151,15 @@ const Teams = () => {
               department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "placeholder",
             },
-          ],
-        },
-        {
-          members: [
-            {
-              name: "Beth Wainoi",
-              department: "BSc Information Technology, JKUAT",
-              image: "beth",
-            },
-            {
-              name: "Njeri Newton Kariuki",
-              department: "BSc Mechatronic Engineering, DeKUT",
-              image: "newton",
-            },
             {
               name: "Erick Gitonga",
               department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "erick",
             },
+          ],
+        },
+        {
+          members: [
             {
               name: "Catherine Kabura",
               department: "BSc Electrical and Electronic Engineering, JKUAT",
@@ -250,6 +169,24 @@ const Teams = () => {
               name: "Victorica Rotich",
               department: "BSc Electrical and Electronic Engineering, JKUAT",
               image: "placeholder",
+            },
+            {
+              name: "",
+              department:
+                "",
+              image: "",
+            },
+            {
+              name: "",
+              department:
+                "",
+              image: "",
+            },
+            {
+              name: "",
+              department:
+                "",
+              image: "",
             },
           ],
         },
@@ -403,7 +340,7 @@ const Teams = () => {
             {
               name: "Dr. Joshua Ngoret",
               department: "Lecturer, Mechatronic Engineering, JKUAT",
-              image: "placeholder",
+              image: "ngoret",
             },
             {
               name: "Aloyce Were",
