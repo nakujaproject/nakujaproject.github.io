@@ -377,15 +377,6 @@ const Teams = () => {
         <div className="container has-text-centered">
           <h2 className="title">Team</h2>
 
-          <div className="columns is-centered">
-              <div className="column is-three-fifths">
-                <figure className="image is-16by9" style={{marginBottom:'5px'}}>
-                  <iframe className="has-ratio" width="560" height="315"
-                    src="https://www.youtube.com/embed/FgPUEDIpjJs?rel=0" frameBorder="0" allowFullScreen></iframe>
-                </figure>
-              </div>
-            </div>
-
           {teamsInfo.map((team: TeamsInfo) => {
             return (
               <>
