@@ -340,7 +340,7 @@ const Teams = () => {
             },
             {
               name: "Dr. Joshua Ngoret",
-              department: "Lecturer, Mechatronic Engineering, JKUAT",
+              department: "Lecturer, Mechanical Engineering, JKUAT",
               image: "ngoret",
             },
             {
