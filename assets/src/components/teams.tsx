@@ -53,7 +53,7 @@ const Teams = () => {
               name: "Lukundo Okemba",
               department:
                 "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
+              image: "lukundo",
             },
           ],
         },
