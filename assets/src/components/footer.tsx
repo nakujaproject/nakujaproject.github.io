@@ -29,9 +29,7 @@ const Footer = () => {
             <ul>
               <li>
                 is a technical development project based in Jomo Kenyatta
-                University of Agriculture and Technology (JKUAT) and Pan African
-                University Institute for Basic Sciences Technology and
-                Innovation (PAUSTI)
+                University of Agriculture and Technology (JKUAT) supported by Kenya Space Agency (KSA)
               </li>
             </ul>
           </div>
@@ -54,9 +52,8 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="http://www.jkuat.ac.ke/pauisti/">
-                  Pan African University Institute for Basic Sciences Technology
-                  and Innovation (PAUSTI)
+                <a href="https://ksa.go.ke/">
+                  Kenya Space Agency (KSA)
                 </a>
               </li>
             </ul>
