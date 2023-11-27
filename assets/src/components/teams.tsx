@@ -343,19 +343,19 @@ const Teams = () => {
               image: "ngoret",
             },
             {
+              name: "Andrew Nyawade",
+              department: "Kenya Space Agency",
+              image: "placeholder",
+            },
+            {
               name: "Aloyce Were",
               department: "Kenya Space Agency",
               image: "were",
             },
             {
-              name: "",
-              department: "",
-              image: "",
-            },
-            {
-              name: "",
-              department: "",
-              image: "",
+              name: "Charles Mwangi",
+              department: "Kenya Space Agency",
+              image: "placeholder",
             },
           ],
         },
