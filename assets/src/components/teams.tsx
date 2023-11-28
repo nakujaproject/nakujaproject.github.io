@@ -344,6 +344,11 @@ const Teams = () => {
               image: "ngoret",
             },
             {
+              name: "Dr. Meshack Hawi",
+              department: "Lecturer, Mechanical Engineering, JKUAT",
+              image: "hawi",
+            },
+            {
               name: "Andrew Nyawade",
               department: "Kenya Space Agency",
               image: "placeholder",
@@ -353,10 +358,34 @@ const Teams = () => {
               department: "Kenya Space Agency",
               image: "were",
             },
+          ],
+        },
+        {
+          members: [
             {
               name: "Charles Mwangi",
               department: "Kenya Space Agency",
               image: "placeholder",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
             },
           ],
         },
