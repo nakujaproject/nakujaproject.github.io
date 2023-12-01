@@ -53,7 +53,7 @@ const Teams = () => {
               name: "Lukundo Okemba",
               department:
                 "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
+              image: "lukundo",
             },
           ],
         },
@@ -224,7 +224,7 @@ const Teams = () => {
             {
               name: "Jeremiah Onyapidi",
               department: "BSc Mechatronic Engineering, JKUAT",
-              image: "placeholder",
+              image: "jeremiah",
             },
           ],
         },
@@ -340,8 +340,13 @@ const Teams = () => {
             },
             {
               name: "Dr. Joshua Ngoret",
-              department: "Lecturer, Mechatronic Engineering, JKUAT",
+              department: "Lecturer, Mechanical Engineering, JKUAT",
               image: "ngoret",
+            },
+            {
+              name: "Dr. Meshack Hawi",
+              department: "Lecturer, Mechanical Engineering, JKUAT",
+              image: "hawi",
             },
             {
               name: "Andrew Nyawade",
@@ -353,10 +358,34 @@ const Teams = () => {
               department: "Kenya Space Agency",
               image: "were",
             },
+          ],
+        },
+        {
+          members: [
             {
               name: "Charles Mwangi",
               department: "Kenya Space Agency",
               image: "placeholder",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
             },
           ],
         },
