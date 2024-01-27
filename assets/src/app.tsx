@@ -4,6 +4,8 @@ import Teams from './components/teams'
 import App from './components/navbar'
 import Footer from './components/footer'
  
+
+ 
 const teamDOM = document.getElementById('team')
 if (teamDOM !== null) render(<Teams />, teamDOM)
 
