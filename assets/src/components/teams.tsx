@@ -228,6 +228,72 @@ const Teams = () => {
       html: '',
     },
     {
+      name: "Liquid Propusion",
+      comment:
+        "Liquid Propulsion team is responsible for the design, fabrication, and testing of the liquid rocket engine. The team is currently working on the development of a liquid rocket engine test stand.",
+      columns: [
+        {
+          members: [
+            {
+              name: "Mercy Kung'u",
+              department: "BSc Mechanical Engineering, KU",
+              image: "2024/mercy",
+            },
+            {
+              name: "Sally Muthoni Karigi",
+              department: "BSc Mechatronic Engineering, JKUAT",
+              image: "2024/sally",
+            },
+            {
+              name: "Carlos Kitti",
+              department: "BSc Electrical and Electronic Engineering, JKUAT",
+              image: "2024/carlos",
+            },
+            {
+              name: "Osman Ali Ilyas",
+              department: "BSc Mechanical Engineering, KU",
+              image: "2024/ilyas",
+            },
+            {
+              name: "Churchil Okech Oduor",
+              department: "BSc Telecommunication and Information Engineering, JKUAT",
+              image: "2024/churchil",
+            },
+          ],
+        },
+        {
+          members: [
+            {
+              name: "Samwel Omenta",
+              department: "BSc Mechanical Engineering, JKUAT",
+              image: "2024/omenta",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+          ],
+        },
+      ],
+      html: '',
+    },
+    {
       name: "Media",
       comment:
         "The media team aims to work on public relations to advertise our activity efficiently. The team intends to develop an introductory movie, documentary article, and other advertisement materials. The team comprises different expertise, such as photography, filming, editing, and journalism.",
