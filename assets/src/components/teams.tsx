@@ -269,9 +269,9 @@ const Teams = () => {
               image: "2024/omenta",
             },
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Brian Macharia",
+              department: "BSc Mechatronic Engineering, JKUAT",
+              image: "placeholder",
             },
             {
               name: "",
