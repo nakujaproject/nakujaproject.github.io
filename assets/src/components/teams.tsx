@@ -1,5 +1,5 @@
 import React from "react";
-import ReactHtmlParser from 'react-html-parser'; 
+import parse from 'html-react-parser'
 
 type TeamsInfo = {
   name: string;
@@ -500,7 +500,7 @@ const Teams = () => {
                         </div>
                       );
                     })}
-                    {ReactHtmlParser (team.html)}
+                    {parse (team.html)}
                   </div>
                 </div>
               </>

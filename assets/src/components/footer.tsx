@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="content has-text-centered">
           <p>
             <a href="https://twitter.com/Nakuja6" style={{padding:'10px'}}>
-              <i className="fab fa-twitter-square fa-2x"></i>
+              <i className="fab fa-x-twitter fa-2x"></i>
             </a>
             <a href="https://www.instagram.com/nakujaproject/" style={{padding:'10px'}}>
               <i className="fab fa-instagram fa-2x"></i>
