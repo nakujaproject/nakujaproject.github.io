@@ -6,19 +6,19 @@ const Footer = () => {
       <div className="container">
         <div className="content has-text-centered">
           <p>
-            <a href="https://twitter.com/Nakuja6" style={{padding:'10px'}}>
+            <a target="_blank" href="https://twitter.com/Nakuja6" style={{padding:'10px'}}>
               <i className="fab fa-x-twitter fa-2x"></i>
             </a>
-            <a href="https://www.instagram.com/nakujaproject/" style={{padding:'10px'}}>
+            <a target="_blank" href="https://www.instagram.com/nakujaproject/" style={{padding:'10px'}}>
               <i className="fab fa-instagram fa-2x"></i>
             </a>
-            <a href="https://www.linkedin.com/company/nakuja-project" style={{padding:'10px'}}>
+            <a target="_blank" href="https://www.linkedin.com/company/nakuja-project" style={{padding:'10px'}}>
               <i className="fab fa-linkedin fa-2x"></i>
             </a>
-            <a href="https://www.youtube.com/channel/UCE67lrxSyV97KVOOqOtIdrQ/" style={{padding:'10px'}}>
+            <a target="_blank" href="https://www.youtube.com/channel/UCE67lrxSyV97KVOOqOtIdrQ/" style={{padding:'10px'}}>
               <i className="fab fa-youtube-square fa-2x"></i>
             </a>
-            <a href="https://github.com/nakujaproject/" style={{padding:'10px'}}>
+            <a target="_blank" href="https://github.com/nakujaproject/" style={{padding:'10px'}}>
               <i className="fab fa-github fa-2x"></i>
             </a>
           </p>
