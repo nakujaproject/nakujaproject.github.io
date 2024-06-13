@@ -247,24 +247,19 @@ const Teams = () => {
               image: "2024/kipkorir",
             },
             {
-              name: "Brian Nyaribo Sironga",
-              department: "BSc Mechanical Engineering, KU",
-              image: "2024/nyaribo",
-            },
-            {
               name: "Collins Kimeli",
               department: "BSc Mechanical Engineering, JKUAT",
               image: "2024/kimeli",
             },
-          ],
-        },
-        {
-          members: [
             {
               name: "Samwel Omenta",
               department: "BSc Mechanical Engineering, JKUAT",
               image: "2024/omenta",
             },
+          ],
+        },
+        {
+          members: [
             {
               name: "Agnes Kimani",
               department: "BSc Mechanical Engineering, JKUAT",
@@ -284,6 +279,11 @@ const Teams = () => {
               name: "Charity Koigo",
               department: "BSc Mechanical Engineering, JKUAT",
               image: "2024/batch2/charity_koigo",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
             },
           ],
         },
