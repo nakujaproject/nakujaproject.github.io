@@ -390,6 +390,35 @@ const Teams = () => {
             }
           ],
         },
+        {
+          members: [
+            {
+              name: "Basil Sagia",
+              department: "BSc Information Science, JKUAT",
+              image: "2024/basil",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
+            }
+          ],
+        },
       ],
       html: '',
     },
