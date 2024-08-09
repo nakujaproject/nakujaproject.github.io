@@ -384,9 +384,9 @@ const Teams = () => {
               image: "roy",
             },
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Mshindi Maxwell",
+              department: "BSc Public Administration and Leadership, JKUAT",
+              image: "2024/mshindi_maxwell",
             }
           ],
         },
