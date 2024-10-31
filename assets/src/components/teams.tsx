@@ -498,9 +498,9 @@ const Teams = () => {
               image: "placeholder",
             },
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Stower Tadzi",
+              department: "Kenya Space Agency",
+              image: "placeholder",
             },
             {
               name: "",
