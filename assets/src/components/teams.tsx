@@ -112,10 +112,10 @@ const Teams = () => {
               image: "2024/batch2/stephen_oduor",
             },
             {
-              name: "",
+              name: "Brian Ikiara",
               department:
-                "",
-              image: "",
+                "BSc Chemistry, JKUAT",
+              image: "2025/brian_ikiara",
             },
             {
               name: "",
