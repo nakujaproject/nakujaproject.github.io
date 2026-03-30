@@ -29,9 +29,12 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
+    "-": "^0.0.1",
     "bootstrap": "^5.2.3",
     "buffer": "^6.0.3",
+    "g": "^2.0.1",
     "html-react-parser": "^5.1.10",
+    "live-server": "^1.2.2",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",
