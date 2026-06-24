@@ -1,14 +1,14 @@
 import React from 'react'
-import { render } from 'react-dom'
+import { createRoot } from 'react-dom/client'
 import Teams from './components/teams'
 import App from './components/navbar'
 import Footer from './components/footer'
- 
+
 const teamDOM = document.getElementById('team')
-if (teamDOM !== null) render(<Teams />, teamDOM)
+if (teamDOM !== null) createRoot(teamDOM).render(<Teams />)
 
 const navbarDOM = document.getElementById('navbar')
-if (navbarDOM !== null) render(<App />, navbarDOM)
+if (navbarDOM !== null) createRoot(navbarDOM).render(<App />)
 
 const footerDOM = document.getElementById('footer')
-if (footerDOM !== null) render(<Footer />, footerDOM)
+if (footerDOM !== null) createRoot(footerDOM).render(<Footer />)
