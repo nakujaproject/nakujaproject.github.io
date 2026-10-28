@@ -254,19 +254,14 @@ const Teams = () => {
               department: "BSc Physics, JKUAT",
               image: "2026/catherine",
             },
-            {
-              name: "Prudence Njoroge",
-              department: "BSc Mechanical Engineering, JKUAT",
-              image: "placeholder",
-            },
           ],
         },
         {
           members: [
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Prudence Njoroge",
+              department: "BSc Mechanical Engineering, JKUAT",
+              image: "placeholder",
             },
             {
               name: "",
