@@ -65,14 +65,14 @@ const Teams = () => {
               image: "2026/bravin",
             },
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Paschal Peter",
+              department: "BSc Mechanical Engineering, JKUAT",
+              image: "2026/paschal",
             },
             {
-              name: "",
-              department: "",
-              image: "",
+              name: "Ben Collins",
+              department: "BSc Chemistry, JKUAT",
+              image: "2026/ben_collins",
             },
             {
               name: "",
