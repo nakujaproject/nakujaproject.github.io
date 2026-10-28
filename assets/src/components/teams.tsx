@@ -70,9 +70,9 @@ const Teams = () => {
               image: "2026/paschal",
             },
             {
-              name: "Ben Collins",
+              name: "Bencollins Mureithi",
               department: "BSc Chemistry, JKUAT",
-              image: "2026/ben_collins",
+              image: "2026/bencollins",
             },
             {
               name: "",
@@ -230,6 +230,11 @@ const Teams = () => {
         {
           members: [
             {
+              name: "Jed Munene",
+              department: "BSc Aerospace Engineering, KU",
+              image: "2026/jed",
+            },
+            {
               name: "Joshua Njau",
               department: "BSc Mechatronic Engineering, JKUAT",
               image: "2026/joshua",
@@ -237,7 +242,7 @@ const Teams = () => {
             {
               name: "Muinde Joshua Mumo",
               department: "BSc Mechanical Engineering, JKUAT",
-              image: "placeholder",
+              image: "2026/muinde",
             },
             {
               name: "RIMAX WAFULA MUDHUNE",
@@ -381,30 +386,15 @@ const Teams = () => {
               image: "patrick",
             },
             {
-              name: "Ben Maniafu",
-              department: "Senior Technologist, iPIC, JKUAT",
-              image: "ben",
-            },
-          ],
-        },
-        {
-          members: [
-            {
               name: "Njeru Manegene",
               department:
                 "Lecturer, Electrical and Electronic Engineering, JKUAT",
               image: "manegene",
             },
-            {
-              name: "Dr. Joshua Ngoret",
-              department: "Lecturer, Mechanical Engineering, JKUAT",
-              image: "ngoret",
-            },
-            {
-              name: "Dr. Meshack Hawi",
-              department: "Lecturer, Mechanical Engineering, JKUAT",
-              image: "hawi",
-            },
+          ],
+        },
+        {
+          members: [
             {
               name: "Aloyce Were",
               department: "Kenya Space Agency",
@@ -415,24 +405,10 @@ const Teams = () => {
               department: "Kenya Space Agency",
               image: "placeholder",
             },
-          ],
-        },
-        {
-          members: [
             {
               name: "Charles Mwangi",
               department: "Kenya Space Agency",
               image: "placeholder",
-            },
-            {
-              name: "Stower Tadzi",
-              department: "State Department for Aviation",
-              image: "placeholder",
-            },
-            {
-              name: "",
-              department: "",
-              image: "",
             },
             {
               name: "",
