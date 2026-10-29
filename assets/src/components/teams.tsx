@@ -366,11 +366,6 @@ const Teams = () => {
               image: "shohei",
             },
             {
-              name: "Dr. Bernard Owiti",
-              department: "Lecturer, Mechanical Engineering, JKUAT",
-              image: "owiti",
-            },
-            {
               name: "Dr. Anthony Muchiri",
               department: "Lecturer, Mechatronic Engineering, JKUAT",
               image: "muchiri",
@@ -386,15 +381,15 @@ const Teams = () => {
                 "Lecturer, Electrical and Electronic Engineering, JKUAT",
               image: "manegene",
             },
-          ],
-        },
-        {
-          members: [
             {
               name: "Aloyce Were",
               department: "Kenya Space Agency",
               image: "were",
             },
+          ],
+        },
+        {
+          members: [
             {
               name: "Andrew Nyawade",
               department: "Kenya Space Agency",
@@ -404,6 +399,11 @@ const Teams = () => {
               name: "Charles Mwangi",
               department: "Kenya Space Agency",
               image: "placeholder",
+            },
+            {
+              name: "",
+              department: "",
+              image: "",
             },
             {
               name: "",
